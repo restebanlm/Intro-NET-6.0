@@ -1,0 +1,15 @@
+C:\Users\Teby\Documents\Visual Studio 2022\Clase 7 - Ejercicio\Clase 7 - Ejercicio\bin\Debug\net6.0\Clase 7 - Ejercicio.exe
+C:\Users\Teby\Documents\Visual Studio 2022\Clase 7 - Ejercicio\Clase 7 - Ejercicio\bin\Debug\net6.0\Clase 7 - Ejercicio.deps.json
+C:\Users\Teby\Documents\Visual Studio 2022\Clase 7 - Ejercicio\Clase 7 - Ejercicio\bin\Debug\net6.0\Clase 7 - Ejercicio.runtimeconfig.json
+C:\Users\Teby\Documents\Visual Studio 2022\Clase 7 - Ejercicio\Clase 7 - Ejercicio\bin\Debug\net6.0\Clase 7 - Ejercicio.dll
+C:\Users\Teby\Documents\Visual Studio 2022\Clase 7 - Ejercicio\Clase 7 - Ejercicio\bin\Debug\net6.0\Clase 7 - Ejercicio.pdb
+C:\Users\Teby\Documents\Visual Studio 2022\Clase 7 - Ejercicio\Clase 7 - Ejercicio\obj\Debug\net6.0\Clase 7 - Ejercicio.csproj.AssemblyReference.cache
+C:\Users\Teby\Documents\Visual Studio 2022\Clase 7 - Ejercicio\Clase 7 - Ejercicio\obj\Debug\net6.0\Clase 7 - Ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teby\Documents\Visual Studio 2022\Clase 7 - Ejercicio\Clase 7 - Ejercicio\obj\Debug\net6.0\Clase 7 - Ejercicio.AssemblyInfoInputs.cache
+C:\Users\Teby\Documents\Visual Studio 2022\Clase 7 - Ejercicio\Clase 7 - Ejercicio\obj\Debug\net6.0\Clase 7 - Ejercicio.AssemblyInfo.cs
+C:\Users\Teby\Documents\Visual Studio 2022\Clase 7 - Ejercicio\Clase 7 - Ejercicio\obj\Debug\net6.0\Clase 7 - Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\Teby\Documents\Visual Studio 2022\Clase 7 - Ejercicio\Clase 7 - Ejercicio\obj\Debug\net6.0\Clase 7 - Ejercicio.dll
+C:\Users\Teby\Documents\Visual Studio 2022\Clase 7 - Ejercicio\Clase 7 - Ejercicio\obj\Debug\net6.0\refint\Clase 7 - Ejercicio.dll
+C:\Users\Teby\Documents\Visual Studio 2022\Clase 7 - Ejercicio\Clase 7 - Ejercicio\obj\Debug\net6.0\Clase 7 - Ejercicio.pdb
+C:\Users\Teby\Documents\Visual Studio 2022\Clase 7 - Ejercicio\Clase 7 - Ejercicio\obj\Debug\net6.0\Clase 7 - Ejercicio.genruntimeconfig.cache
+C:\Users\Teby\Documents\Visual Studio 2022\Clase 7 - Ejercicio\Clase 7 - Ejercicio\obj\Debug\net6.0\ref\Clase 7 - Ejercicio.dll
