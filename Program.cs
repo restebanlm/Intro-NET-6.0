@@ -20,9 +20,7 @@ Console.WriteLine("INGRESAR LA LONGITUD DEL VECTOR");
 int longitudVector = int.Parse(Console.ReadLine());
 Console.Clear();
 
-int[] vector, vectorAux;
-vector = new int[longitudVector];
-vectorAux = new int[longitudVector];
+int[] vector = new int[longitudVector];
 Random random = new Random();
 
 Console.WriteLine(">VECTOR GENERADO<");
@@ -31,17 +29,16 @@ for (int i = 0; i < vector.Length; i++)
     vector[i] = random.Next();
     Console.WriteLine($"{i} -> {vector[i]}");
 }
-int j = 0;
-for (int i = vector.Length-1; i >= 0; i--)
+int aux;
+for (int i = 0; i < vector.Length/2; i++)
 {
-    vectorAux[j] = vector[i];
-    j++;
+    aux = vector[i];
+    vector[i] = vector[vector.Length - 1 - i];
+    vector[vector.Length - 1- i] = aux;
 }
-vector = vectorAux;
-j = 0;
+
 Console.WriteLine("\n>VECTOR INVERTIDO<");
-foreach (int i in vector)
+for (int i = 0; i < vector.Length; i++)
 {
-    Console.WriteLine($"{j} -> {i}");
-    j++;
+    Console.WriteLine($"{i} -> {vector[i]}");
 }
