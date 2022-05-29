@@ -1,0 +1,15 @@
+C:\Users\Teby\Documents\Visual Studio 2022\Clase 9 - Ejercicio 2\bin\Debug\net6.0\Clase 9 - Ejercicio 2.exe
+C:\Users\Teby\Documents\Visual Studio 2022\Clase 9 - Ejercicio 2\bin\Debug\net6.0\Clase 9 - Ejercicio 2.deps.json
+C:\Users\Teby\Documents\Visual Studio 2022\Clase 9 - Ejercicio 2\bin\Debug\net6.0\Clase 9 - Ejercicio 2.runtimeconfig.json
+C:\Users\Teby\Documents\Visual Studio 2022\Clase 9 - Ejercicio 2\bin\Debug\net6.0\Clase 9 - Ejercicio 2.dll
+C:\Users\Teby\Documents\Visual Studio 2022\Clase 9 - Ejercicio 2\bin\Debug\net6.0\Clase 9 - Ejercicio 2.pdb
+C:\Users\Teby\Documents\Visual Studio 2022\Clase 9 - Ejercicio 2\obj\Debug\net6.0\Clase 9 - Ejercicio 2.csproj.AssemblyReference.cache
+C:\Users\Teby\Documents\Visual Studio 2022\Clase 9 - Ejercicio 2\obj\Debug\net6.0\Clase 9 - Ejercicio 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teby\Documents\Visual Studio 2022\Clase 9 - Ejercicio 2\obj\Debug\net6.0\Clase 9 - Ejercicio 2.AssemblyInfoInputs.cache
+C:\Users\Teby\Documents\Visual Studio 2022\Clase 9 - Ejercicio 2\obj\Debug\net6.0\Clase 9 - Ejercicio 2.AssemblyInfo.cs
+C:\Users\Teby\Documents\Visual Studio 2022\Clase 9 - Ejercicio 2\obj\Debug\net6.0\Clase 9 - Ejercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\Teby\Documents\Visual Studio 2022\Clase 9 - Ejercicio 2\obj\Debug\net6.0\Clase 9 - Ejercicio 2.dll
+C:\Users\Teby\Documents\Visual Studio 2022\Clase 9 - Ejercicio 2\obj\Debug\net6.0\refint\Clase 9 - Ejercicio 2.dll
+C:\Users\Teby\Documents\Visual Studio 2022\Clase 9 - Ejercicio 2\obj\Debug\net6.0\Clase 9 - Ejercicio 2.pdb
+C:\Users\Teby\Documents\Visual Studio 2022\Clase 9 - Ejercicio 2\obj\Debug\net6.0\Clase 9 - Ejercicio 2.genruntimeconfig.cache
+C:\Users\Teby\Documents\Visual Studio 2022\Clase 9 - Ejercicio 2\obj\Debug\net6.0\ref\Clase 9 - Ejercicio 2.dll
